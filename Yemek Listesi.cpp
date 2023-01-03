@@ -1,15 +1,3 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   PROGRAMLAMAYA GİRİŞ DERSİ
-**					2022/2023 GÜZ DÖNEMİ
-**
-**				PROJE NUMARASI..........:1
-**				ÖĞRENCİ ADI............:YUNUS EMRE YILMAZ
-**				ÖĞRENCİ NUMARASI.......:G211210044
-**                         DERSİN ALINDIĞI GRUP...:1.OGRETIM/A GRUBU
-****************************************************************************/
 #include<iostream>
 #include<clocale>
 #include<cmath>
